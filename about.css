@@ -1,0 +1,18 @@
+body {
+    background-image: url("mybackground.jpg");
+  }
+  <style>
+  #shoes {
+      width: 100px;
+      float: left;
+      margin-right: 6px;
+      margin-bottom: 6px;
+   </style>
+ 
+   <style>
+  #pink-design {
+      width: 100px;
+      float: :right;
+      margin-right: 6px;
+      margin-bottom: 6px;
+   </style>
